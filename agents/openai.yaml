@@ -1,0 +1,4 @@
+interface:
+  display_name: "Professional Minimalist GUI"
+  short_description: "Clear typography, concise content, and professional GUI layouts"
+  default_prompt: "Use $minimalist-style to design or refactor this GUI with concise content, readable typography, consistent formatting, and clear controls while preserving essential data, states, and actions."
